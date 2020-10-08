@@ -1,5 +1,7 @@
 # Trigon-game
 
+![play](https://user-images.githubusercontent.com/50537259/95474354-a145f300-09a2-11eb-9da7-91ff8e14439e.gif)
+
 ## A simple game built in react-native.
 
 ## Prerequisties
